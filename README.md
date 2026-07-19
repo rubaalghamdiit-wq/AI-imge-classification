@@ -24,5 +24,8 @@ The model can classify images into two categories:
 - `prediction.ipynb` – Notebook for making predictions.
 - `prediction_example.jpg` – Example prediction from the model.
 
-## Future Improvements
-I would like to improve the model by adding more training images, increasing the number of classes, and creating a simple web interface for testing predictions.
+## Google Colab
+
+You can open and run the notebook directly in Google Colab:
+
+[Open in Google Colab](https://colab.research.google.com/drive/1n6iWkuVI5aj-s6YjTjKBtcR26pUvTvjz?usp=sharing)
