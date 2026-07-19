@@ -89,7 +89,8 @@ In Google Colab, I wrote Python code to:
 - Load and preprocess the input image.
 - Run the prediction.
 - Display the predicted class and confidence score.
-'''from keras.models import load_model  # TensorFlow is required for Keras to work
+'''python
+from keras.models import load_model  # TensorFlow is required for Keras to work
 from PIL import Image, ImageOps  # Install pillow instead of PIL
 import numpy as np
 import tf_keras as tk
