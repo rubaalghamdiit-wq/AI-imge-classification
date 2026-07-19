@@ -6,9 +6,9 @@ The model can classify images into two categories:
 - Ring
 - Necklace
 
-## Example Prediction
+## Example Prediction & Result
 
-![Project Demo](/prediction_example.jpg) & Result
+![Project Demo](/prediction_example.jpg) 
 
 ## Tools Used
 - Google Teachable Machine
