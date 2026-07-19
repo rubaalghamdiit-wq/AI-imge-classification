@@ -8,7 +8,7 @@ The model can classify images into two categories:
 
 ## Example Prediction
 
-![Project Demo](prediction_example.jpg)
+![Project Demo](IMG_4055.JPG)
 
 ## Tools Used
 - Google Teachable Machine
